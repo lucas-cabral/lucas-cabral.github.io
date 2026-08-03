@@ -3,16 +3,16 @@ page_id: about
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>PhD Candidate at the Graduate Program in Journalism at the Federal University of Santa Catarina</a>. Florianópolis, Brazil.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>lcabral.98@gmail.com / cabrall@tutanota.com</p>
+    <p>Graduate Program in Journalism at UFSC</p>
+    <p>Florianópolis, SC, Brazil</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -28,8 +28,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I hold a master’s and bachelor’s degree in Journalism from the State University of Ponta Grossa (UEPG). I am a doctoral candidate at PPGJor/UFSC and a fellow of the Santa Catarina State Foundation for Research and Innovation (Fapesc). I am a member of the Laboratory of Practices for Local Journalism in the Service of the Public (LocalJor). I’m also a musician, composer, writer, and I do a little bit of everything.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/multi-language-al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Currently, I’m researching the relationships between local journalism, place, and the commons. My main research interests include: theories of journalism; local journalism; the commons; place; everyday life; and journalism as a social form of knowledge.
