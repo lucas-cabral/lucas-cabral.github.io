@@ -74,98 +74,87 @@
   ],
   "awards": [
     {
-      "title": "Prêmio Nobel de Física",
-      "date": "1921-11-01",
-      "awarder": "Academia Real Sueca de Ciências",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "Os Prêmios Nobel são cinco prêmios separados que, de acordo com o testamento de Alfred Nobel de 1895, são concedidos a 'aqueles que, durante o ano anterior, conferiram o maior benefício à humanidade'."
+      "title": "1º lugar - Categoria composição",
+      "date": "2017-01-01",
+      "awarder": "Festival Unicentro da Canção (FUCA) - UNICENTRO • 2017",
+      "summary": "Primeiro lugar com a canção \"Ensaios Fotográficos\"."
+    },
+    {
+      "title": "2º lugar - Categoria composição",
+      "date": "2019-01-01",
+      "awarder": "Festival Unicentro da Canção (FUCA) - UNICENTRO • 2019",
+      "summary": "Segundo lugar com a canção \"Constantemente Contato\"."
+    },
+    {
+      "title": "Melhor composição - Prêmio do Júri Popular",
+      "date": "2021-01-01",
+      "awarder": "Festival Universitário da Canção (FUC) - UEPG • 2021",
+      "summary": "Prêmio do júri popular para a canção \"Constantemente Contato\"."
+    },
+    {
+      "title": "3º Lugar no Concurso Municipal de Fotografia",
+      "date": "2018-01-01",
+      "awarder": "Fundação Municipal de Cultura de Ponta Grossa",
+      "url": "https://www.flickr.com/photos/140404209@N02/46309968402/",
+      "summary": "Foto premiada no primeiro Concurso Municipal de Fotografia da cidade de Ponta Grossa."
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Escrita Acadêmica em Inglês",
+      "date": "2020-01-01",
+      "issuer": "Universidade Federal do Paraná"
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Cooperativismo de plataforma: novos modelos para o futuro da economia.",
+      "date": "2022-01-01",
+      "issuer": "Instituto de Tecnologia e Sociedade, ITS Rio, Brasil.",
       "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "O que conecta os públicos ao jornalismo local: um survey sobre interesses em Florianópolis.",
+      "publisher": "Estudos de Jornalismo e Mídia",
+      "releaseDate": "2026",
+      "url": "https://periodicos.ufsc.br/index.php/jornalismo/article/view/108302",
+      "summary": "The article reports the results of a survey with a representative sample of the population of Florianópolis (N = 604), conducted in 2024 to assess reasons for news consumption, topics considered most interesting and those missing in coverage, habits and information sources accessed, reasons for abandoning news, alternatives for sustainability and funding from the public, and engagement in journalism. It is a methodological step from a broader study that seeks elements to establish models of social governance for local journalism, capable of developing a sense of community and shared reality (common), as an antidote to extremism. The results suggest a new way of understanding the relationship between the public and local journalism (focused on individual and social motivations, rather than media characteristics), which can be enhanced by greater attention to topics of interest. However, the data point to a scenario of low participation in journalism, especially in forms of funding."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Financiamento de portais digitais nos quase desertos de notícias de Santa Catarina: análise a partir do Atlas da Notícia (2024).",
+      "publisher": "Estudos em Comunicação",
+      "releaseDate": "2025",
+      "url": "https://doi.org/10.25768/1646-4974n41v2a02",
+      "summary": "With the crisis in the media sector’s traditional funding models, organizations need to look for new ways to remain sustainable in a scenario in which journalism is losing its leading role as the main place to advertise to social networks and programmatic advertising. In an attempt to understand how these changes affect local journalism, we propose an analysis of the ways in which online outlets are financed in the almost news-deprived regions of the Brazilian state of Santa Catarina. Despite being the fifth state in the country with the highest number of outlets, 197 of Santa Catarina’s 295 municipalities (66.78%) are deserts or near-deserts of news. In an exploratory research made by cross-referencing data from Atlas da Notícia v.6 (Projor, 2024), we identified 11 exclusively digital newspapers in ten cities considered almost deserted. In our analysis, we identified the use of methods such as traditional advertising, legal advertising, requests for donations and commissioned links, which contrasts with our hypothesis that, in a crisis scenario, local journalism would adopt unconventional financing strategies and provides clues about possible trends for the sustainability of outlets in places with a low density of journalistic information."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Book Review: Local journalism: Critical perspectives on the provincial newspaper",
+      "publisher": "Journalism",
+      "releaseDate": "2025",
+      "url": "https://doi.org/10.1177/14648849251337539"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "Jornalismo",
+      "level": "Doutorado em Andamento",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Teorias do Jornalismo",
+        "Jornalismo Local",
+        "Ensino e orientação",
+        "Organização de eventos e coordenação de projetos",
+        "Apuração e redação jornalística",
+        "Desenvolvimento e manutenção de sites",
+        "Programação e software livre",
+        "Produção e edição de fotos e vídeos"
       ]
     }
   ],
   "languages": [
     {
-      "language": "Alemão",
+      "language": "Português",
       "fluency": "Nativo",
       "icon": ""
     },
@@ -173,19 +162,32 @@
       "language": "Inglês",
       "fluency": "Fluente",
       "icon": ""
-    }
+    },
+    {
+      "language": "Espanhol",
+      "fluency": "Intermediário",
+      "icon": ""
+    }    
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Música",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Composição musical",
+        "Gravação e produção musical",
+        "Tradução de letras",
+        "Violão"
+      ]
+    },
+    {
+      "name": "Literatura",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Escrita e revisão textual",
+        "Poesia",
+        "Tradução de poesia",
+        "Editoração"
       ]
     }
   ],
@@ -203,12 +205,12 @@
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Laboratório de Práticas para o Jornalismo Local a Serviço dos Públicos",
+      "summary": "Membro do LocalJor, projeto de pesquisa que busca investigar as relações entre o jornalismo local e seus públicos, além de desenvolver métodos de diagnótico e criação de jornais viáveis e úteis para a população.",
+      "highlights": ["Jornalismo Local", "Crise do Jornalismo"],
+      "startDate": "2022-01-01",
+      "endDate": "Atual",
+      "url": "https://localjor.paginas.ufsc.br/"
     }
   ]
 }
