@@ -1,59 +1,75 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Cientista",
+    "name": "Lucas Santos Carmo Cabral",
+    "label": "Jornalista e pesquisador",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://george-gca.github.io/multi-language-al-folio/pt-br/",
-    "summary": "Um físico teórico alemão, amplamente considerado um dos cientistas mais influentes de todos os tempos",
+    "email": "lcabral.98@gmail.com",
+    "url": "https://lucas-cabral.github.io/",
+    "summary": "Doutorando e mestre em jornalismo",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "Florianópolis",
+      "countryCode": "BR",
+      "region": "Santa Catarina"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Instagram",
+        "username": "luzzca",
+        "url": "https://instagram.com/luzzca"
       }
     ]
   },
   "work": [
     {
-      "name": "Instituto de Estudos Avançados, Universidade de Princeton",
-      "position": "Professor de Física Teórica",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Ensino no Palmer Physical Laboratory (agora 302 Frist Campus Center). Embora não seja professor em Princeton, associei-me aos professores de física e continuei a dar palestras no campus.",
-      "highlights": ["Relatividade"]
+      "name": "Centro de Estudos e Pesquisas em Engenharia e Defesa Civil (Ceped/UFSC)",
+      "position": "Revisor textual",
+      "startDate": "2022-01-01",
+      "endDate": "2023-01-01",
+      "summary": "Revisão textual de materiais didáticos para cursos públicos (Enap e ministérios federais)."
+    },
+    {
+      "name": "Secretaria de Inovação da UFSC (Sinova/UFSC)",
+      "position": "Bolsista de jornalismo",
+      "startDate": "2022-01-01",
+      "endDate": "2023-01-01",
+      "summary": "Apuração e escrita de notícias institucionais. Produção conteúdo e gestão de redes sociais."
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Revista Internacional de Folkcomunicação",
+      "position": "Assistente editorial",
+      "url": "https://revistas.uepg.br/index.php/folkcom/",
+      "startDate": "2020-01-01",
+      "endDate": "2022-06-01",
+      "summary": "Revisão e diagramação de artigos científicos, gestão de site na plataforma Open Journal Systems (OJS).",
+      "highlights": ["Conversão de seis edições da revista para o formato XML-Jats"]
+    },
+     {
+      "organization": "Revista Brasileira de Ensino de Jornalimo",
+      "position": "Assistente editorial",
+      "url": "https://rebej.abejor.org.br/index.php/rebej",
+      "startDate": "2021-01-01",
+      "endDate": "2022-06-01",
+      "summary": "Revisão e diagramação de artigos científicos, gestão de site na plataforma OJS."
     }
   ],
   "education": [
     {
-      "institution": "Universidade de Zurique, Zurique, Suíça",
-      "url": "https://www.uzh.ch/",
-      "area": "Desenvolvimento de software",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Teoria da relatividade"]
+      "institution": "Universidade Federal de Santa Catarina, Florianópolis, Brasil",
+      "url": "https://www.ufsc.br",
+      "area": "Jornalismo",
+      "studyType": "Doutorado",
+      "startDate": "2022-01-01",
+      "endDate": "Atual"
+    },
+    {
+      "institution": "Universidade Estadual de Ponta Grossa, Ponta Grossa, Brasil",
+      "url": "https://www.uepg.br",
+      "area": "Jornalismo",
+      "studyType": "Mestrado",
+      "startDate": "2020-01-01",
+      "endDate": "2022-06-01"
     }
   ],
   "awards": [
