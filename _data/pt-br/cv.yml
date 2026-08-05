@@ -2,100 +2,85 @@
   type: map
   contents:
     - name: Nome Completo
-      value: Albert Einstein
+      value: Lucas Santos Carmo Cabral
     - name: Data de Nascimento
-      value: 14 de março de 1879
+      value: 11 de junho de 1998
     - name: Idiomas
-      value: Inglês, Alemão
+      value: Português, Inglês, Espanhol
 
 - title: Educação
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurique, Suíça
-      year: 1905
+    - title: Doutorado em andamento
+      institution: Universidade Federal de Santa Catarina, Florianópolis, Brasil
+      year: 2022 - atual
       description:
-        - Descrição 1.
-        - Descrição 2.
-        - title: Descrição 3.
-          contents:
-            - Sub-descrição 1.
-            - Sub-descrição 2.
-    - title: Diploma de ensino federal
-      institution: Eidgenössische Technische Hochschule, Zurique, Suíça
-      year: 1900
+        - Período de doutorado sanduíche (Capes) na Universidade da Beira Interior (UBI), em Covilhã, Portugal.
+        - Membro do Laboratório de Práticas para o Jornalismo Local a Serviço dos Públicos.
+    - title: Mestrado em Jornalismo
+      institution: Universidade Estadual de Ponta Grossa, Ponta Grossa, Brasil
+      year: 2020-2022
       description:
-        - Descrição 1.
-        - Descrição 2.
-
+        - Defendeu a dissertação "<a href="https://ri.uepg.br/items/8129ed8b-b03c-4fff-a497-c85642d0ed70">A reportagem como dispositivo jornalístico estratégico na internet: o caso do Jornal Plural Curitiba em 2021</a>"
+        - Bolsista da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes).
+        - Assitente editorial da <a href="https://revistas.uepg.br/index.php/folkcom/">Revista Internacional de Folkcomunicação</a>.
+        
 - title: Experiência
   type: time_table
   contents:
-    - title: Professor de Física Teórica
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Revisor
+      institution: Centro de Estudos e Pesquisas em Engenharia e Defesa Civil (Ceped/UFSC)
+      year: 2022 - 2023
       description:
-        - Descrição 1.
-        - Descrição 2.
-        - title: Descrição 3.
-          contents:
-            - Sub-descrição 1.
-            - Sub-descrição 2.
-    - title: Professor Visitante
-      institution: California Institute of Technology, Pasadena, Califórnia, EUA
-      year: 1933
+        - Revisão textual de materiais didáticos para cursos públicos (Enap e ministérios federais).
+    - title: Bolsista de comunicação
+      institution: Secretaria de Inovação da UFSC (Sinova/UFSC)
+      year: 2022
       description:
-        - Descrição 1.
-        - Descrição 2.
-
-    - title: Diretor
-      institution: Kaiser Wilhelm Institute for Physics, Berlim, Alemanha.
-      year: 1917-1933
-
-    - title: Professor de Física Teórica
-      institution: Karl-Ferdinand University, Praga, Tchecoslováquia
-      year: 1911 - 1917
+        - Apuração e escrita de notícias institucionais.
+        - Produção conteúdo e gestão de redes sociais.
+    - title: Assistente editorial
+      institution: <a href="https://revistas.uepg.br/index.php/folkcom/">Revista Internacional de Folkcomunicação</a>
+      year: 2020 - 2022
       description:
-
-    - title: Professor Associado de Física Teórica
-      institution: University of Zurich, Zurique, Suíça
-      year: 1909 - 1911
-
-- title: Projetos de Código Aberto
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a>
-      year: 2023-atual
-      description: Uma variação do tema al-folio com suporte a múltiplos idiomas.
-
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-atual
-      description: Um tema Jekyll bonito, simples, limpo e responsivo para acadêmicos.
-
-- title: Honrarias e Prêmios
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Prêmio Nobel de Física
-        - Medalha Matteucci
-    - year: 2029
-      items:
-        - Medalha Max Planck
-
+        - Revisão e diagramação de artigos científicos.
+        - Gestão de site na plataforma Open Journal Sytems (OJS).
+        - Geração de arquivos no formato XML-Jats.
+      - title: Assistente editorial
+      institution: <a href="https://rebej.abejor.org.br/index.php/rebej">Revista Brasileira de Ensino de Jornalimo</a>
+      year: 2021 - 2022
+      description:
+        - Revisão e diagramação de artigos científicos.
+        - Gestão de site na plataforma Open Journal Sytems (OJS).
+        
 - title: Interesses Acadêmicos
   type: nested_list
   contents:
-    - title: Tópico 1.
+    - title: Teorias do jornalismo.
       items:
-        - Descrição 1.
-        - Descrição 2.
-    - title: Tópico 2.
+        - Jornalismo como forma social de conhecimento.
+        - Crise do jornalismo.
+        - Bibliometria de estudos em jornalismo.
+        - Relações entre o jornalismo e seus públicos.
+        
+    - title: Relações entre o jornalismo e o lugar.
       items:
-        - Descrição 1.
-        - Descrição 2.
+        - Os sentidos do lugar.
+        - Direito à cidade e direito à informação.
+        - Espaço x território x lugar.
+        - Milton Santos, Henri Lefebvre, David Harvey.
+
+      - title: Jornalismo como comum.
+        items:
+          - O jornalismo como bem comum.
+          - Institucionalidades alternativas para o jornalismo.
+          - O jornalismo como facilitador dos comuns.
 
 - title: Outros Interesses
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Música:</u> Composição, tradução, gravação e produção musical.
+    - <u>Idiomas:</u> Interesse em francês e polonês.
+    - <u>Literatura:</u> Poesia, tradução de poesia, contos etc.
+    - <u>Outros hobbies:</u> Crochê, origami, fotografia, palavras-cruzadas, editoração, programação, software livre e mil outras coisas.
+    
